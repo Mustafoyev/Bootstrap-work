@@ -20,3 +20,16 @@
 .site-footer {
 	padding: 40px 0;
 }
+
+.col-lg-4 {
+	margin-bottom: 30px;
+}
+
+.col-md-6 {
+	margin-bottom: 30px;
+}
+
+.col-sm-12 {
+	margin: 0 auto;
+	margin-bottom: 30px;
+}
